@@ -1,0 +1,19 @@
+{
+  "name": "xdv-fetch-get-data-mixin",
+  "version": "1.0.0",
+  "description": "Mixin to get data from local json file or picsum, unsplash api",
+  "keywords": [
+    "mixin",
+    "getData",
+    "web components"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xdv - terrasa.luis@gmail.com",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
+}

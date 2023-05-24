@@ -1,0 +1,1 @@
+export { XdvFetchGetDataMixin } from './src/XdvFetchGetDataMixin'
