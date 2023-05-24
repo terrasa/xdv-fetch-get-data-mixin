@@ -1,5 +1,5 @@
 {
-  "name": "@xdv/xdv-fetch-get-data-mixin",
+  "name": "@terrasa/xdv-fetch-get-data-mixin",
   "version": "1.0.1",
   "description": "Mixin to get data from local json file or picsum, unsplash api",
   "keywords": [
