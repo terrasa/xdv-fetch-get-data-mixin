@@ -15,5 +15,12 @@
   "license": "MIT",
   "publishConfig": {
     "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://https://github.com/terrasa/xdv-fetch-get-data-mixin"
+  },
+  "bugs": {
+    "url": "https://github.com/terrasa/xdv-string-to-kebab-case-mixin/issues"
   }
 }
