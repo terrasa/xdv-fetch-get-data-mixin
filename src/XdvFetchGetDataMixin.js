@@ -24,6 +24,7 @@ export const XdvFetchGetDataMixin = (superclass) => {
     }
 
     async getData () {
+      this.apiUrl = await this.dataset.apiUrl
       console.log('Fetch getDAta ', this.apiUrl, this.slideUrls)
       // url from api.unsplash.com/photos
       if (this.apiUrl.startsWith('https://api.unsplash.com/photos/')) {
