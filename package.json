@@ -1,6 +1,6 @@
 {
   "name": "@xiul/xdv-fetch-get-data-mixin",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Mixin to get data from local json file or picsum, unsplash api",
   "keywords": [
     "mixin",
