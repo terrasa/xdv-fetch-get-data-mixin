@@ -1,4 +1,4 @@
-export const XdvGetData = (superclass) => {
+export const XdvFetchGetDataMixin = (superclass) => {
   return class extends superclass {
 
     static get properties() {
